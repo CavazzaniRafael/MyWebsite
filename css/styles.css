@@ -1,71 +1,75 @@
-.top-container{
-background-color: rgb(222, 252, 252);    
-position: relative;
-padding-top: 290px;
-
+top-container{
+    background-color: rgb(222, 252, 252);    
+    position: relative;
+    padding-top: 290px;
     
+        
+    
+    }
+    .middle-container{
+        padding-top: 70px;
+    
+    }
+    
+    body {
+        margin: 0px;
+        text-align: center;
+        font-family: 'Merriweather', serif;
+    }
+    h1{
+        margin: 0 auto;
+      font-size:50px
+    
+    }
+    .bottom-cloud{
+        position: absolute;
+        top: 400px;
+        left: 400px;
+    
+    }
+    .top-cloud2{
+        position: absolute;
+        top: 140px;
+        left: 250px;
+    }
 
-}
-.middle-container{
-    padding-top: 70px;
-
-}
-/*.bottom-container{
-}
-*/
-
-body {
-    margin: 0px;
-    text-align: center;
-    font-family: 'Merriweather', serif;
-}
-h1{
-    margin: 0 auto;
-  font-size:50px
-
-}
-.bottom-cloud{
+    .top-cloud {
     position: absolute;
-    top: 280px;
-    left: 400px;
-
-}
-.top-cloud {
-position: absolute;
-top: 130px;
-right: 360px;
-
-}
-.Rafael{
-font-family: 'Pinyon Script', cursive;
-}
-h2{
-    font-family: 'Montserrat', sans-serif;
-}
-h3{
-    font-family: 'Montserrat', sans-serif;
-}
-hr{
-    border-style: none;
-    border-top-style: dotted;
-    border-color: rgb(175, 175, 175);
-    border-width: 8px;
-    width: 6%;
-
-}
-.webdeveloper {
-height: 180px ;
-width: 180px;
-}
-.WorkTeam {
-height: 180px ;
-width: 180px;
-}
-.pro{
-text-decoration: underline;
-
-}
-
+    top: 210px;
+    right: 360px;
+    
+    }
+    .Rafael{
+    font-family: 'Pinyon Script', cursive;
+    }
+    h2{
+        font-family: 'Montserrat', sans-serif;
+    }
+    h3{
+        font-family: 'Montserrat', sans-serif;
+    }
+    hr{
+        border-style: none;
+        border-top-style: dotted;
+        border-color: rgb(175, 175, 175);
+        border-width: 8px;
+        width: 6%;
+    
+    }
+    .webdeveloper {
+    height: 180px ;
+    width: 180px;
+    }
+    .WorkTeam {
+    height: 180px ;
+    width: 180px;
+    }
+    .pro{
+    text-decoration: underline;
+    
+    }
+    
+    
 
 
 
