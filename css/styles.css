@@ -33,7 +33,7 @@
     right: 360px;
     
     }
-    .Rafael{
+    .rafael{
     font-family: 'Pinyon Script', cursive;
     font-size: 70px;
     color: #499e9e;
@@ -66,7 +66,7 @@
     margin-right: 30px;
     
     }
-    .WorkTeam {
+    .workteam {
     height: 25% ;
     width: 25%;
     float: right;
@@ -159,5 +159,4 @@
   a:hover{
     color: #EAF6F6;
   }
-
 
