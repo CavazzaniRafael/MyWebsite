@@ -159,7 +159,7 @@
   a:hover{
     color: #EAF6F6;
   }
-  
+
     /* navegation bar */
 
     .navbar {
@@ -186,4 +186,7 @@
     }
     .container-fluid{
         background-color: rgb(222, 252, 252);
+    }
+    .profile-img{
+        padding-bottom: 2rem;
     }
