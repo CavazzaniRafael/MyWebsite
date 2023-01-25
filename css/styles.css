@@ -52,7 +52,7 @@
     }
     hr{
         border-style: none;
-        border-top-style: dotted;
+        border-top-style: dotted;f
         border-color: #5e6161;
         border-width: 8px;
         width: 6%;
@@ -132,7 +132,7 @@
         margin:0px;
         padding: 50px 0 20px;
     }
-    .contact-me{
+    #contact-me{
         width: 40%;
         margin:40px auto 110px;
     }
